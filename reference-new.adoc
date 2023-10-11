@@ -107,10 +107,11 @@ TIP: Connector의 자동 업그레이드는 기본적으로 활성화되어 있�
 
 
 
-=== C4, M4 및 R4 인스턴스는 더 이상 지원되지 않습니다
+=== C4, M4 및 R4 EC2 인스턴스 유형으로 AWS에서 업그레이드
 
-AWS에서 C4, M4 및 R4 EC2 인스턴스 유형은 더 이상 Cloud Volumes ONTAP에서 지원되지 않습니다. C4, M4 또는 R4 인스턴스 유형에서 실행 중인 기존 시스템이 있는 경우 C5, M5 또는 R5 인스턴스 제품군의 인스턴스 유형으로 변경해야 합니다.
+AWS에서는 새로운 Cloud Volumes ONTAP 구축에서 C4, M4 및 R4 EC2 인스턴스 유형이 더 이상 지원되지 않습니다. C4, M4 또는 R4 인스턴스 유형에서 실행 중인 기존 시스템이 있는 경우 C5, M5 또는 R5 인스턴스 제품군의 인스턴스 유형으로 변경해야 합니다. 인스턴스 유형을 변경할 수 없는 경우 업그레이드하기 전에 향상된 네트워킹을 활성화해야 합니다.
 
+link:https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap-cloud.html#upgrades-in-aws-with-c4-m4-and-r4-ec2-instance-types["AWS에서 C4, M4 및 R4 EC2 인스턴스 유형으로 업그레이드하는 방법을 알아보십시오"^].
 link:https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-change-ec2-instance.html["Cloud Volumes ONTAP의 EC2 인스턴스 유형을 변경하는 방법에 대해 알아보십시오"^].
 
 을 참조하십시오 link:https://mysupport.netapp.com/info/communications/ECMLP2880231.html["NetApp 지원"^] 이러한 인스턴스 유형의 가용성 및 지원에 대한 자세한 내용을 보려면 를 참조하십시오.
