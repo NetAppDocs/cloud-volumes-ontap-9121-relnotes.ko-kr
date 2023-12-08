@@ -704,9 +704,6 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="5313a9ac102424f63dd4d76f5280130e" category="sidebar">AWS의 제한</block>
   <block id="1fff298355326f8c77bd77059a41c1a2" category="sidebar">Azure의 제한</block>
   <block id="9a3a0c4b2afbb088e029484d4b34ba8b" category="sidebar">Google Cloud의 제한 사항</block>
-  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">모든 BlueXP 설명서</block>
-  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
-  <block id="dea335c9c6f638eb584011e253ad6ca1" category="sidebar">ONTAP 클라우드</block>
   <block id="fd164e9cb2bc1ac5405cabfe451663f7" category="cell">PiB 2개(여러 개의 라이센스 필요)</block>
   <block id="2dbd9a217bce4c7ba4ef467f57d6875c" category="paragraph">Cloud Volumes ONTAP BYOL 단일 노드 또는 HA 쌍 시스템에 대해 노드 기반 라이센스를 여러 개 구매하여 최대 테스트 및 지원 시스템 용량 제한인 2개의 PiB까지 368TiB의 용량을 할당할 수 있습니다. 디스크 제한만으로는 용량 제한에 도달하지 못할 수 있습니다. 를 사용하면 디스크 제한을 초과할 수 있습니다<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>.<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>. Cloud Volumes ONTAP는 최대 테스트 및 지원되는 시스템 용량인 2 PiB를 지원하지만 2 PiB 제한을 초과하면 지원되지 않는 시스템 구성이 발생합니다.</block>
   <block id="de9d6749570efc87e63811b5947fc250" category="paragraph">AWS Secret Cloud 및 Top Secret Cloud 지역에서는 Cloud Volumes ONTAP 9.12.1부터 다수의 노드 기반 라이센스 구매를 지원합니다.</block>
@@ -715,4 +712,8 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="e1ec06a3bd4a559443a88f1cb6736c26" category="inline-link-macro">AWS에서 C4, M4 및 R4 EC2 인스턴스 유형으로 업그레이드하는 방법을 알아보십시오</block>
   <block id="f295c0f45a8e22a4e4db9141680cce76" category="paragraph"><block ref="0fa12a627192b6cd097b12cd8088afe0" category="inline-link-macro-rx"></block>.
 <block ref="3f0e03f473a215943c109dc7746cdb60" category="inline-link-macro-rx"></block>.</block>
+  <block id="7b12e48cf0f58903b7c9f1ebc3c96974" category="section-title">9.12.1 P8(2023년 12월 8일)</block>
+  <block id="fade75ceec599e990625d8fe892dc7d0" category="paragraph">이제 모든 클라우드 제공업체가 Cloud Volumes ONTAP에서 9.12.1 P8 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">P8 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="256a78f661aac1037fd4538bac2c35e2" category="paragraph"><block ref="eeacaebd27be6cafb953a21f643315af" category="inline-link-macro-rx"></block> (NetApp Support 사이트 로그인 필요).</block>
 </blocks>
