@@ -721,4 +721,8 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="ae809759e1518d5c4c2019b9c03f15a1" category="list-text">ONTAP 9.12.1P2부터 128TB가 제한됩니다. ONTAP 9.11.1 이하 버전에서는 16TB로 제한됩니다.</block>
   <block id="363a2a1557561115c9aab27b368391e0" category="list-text">Cloud Volumes ONTAP 9.12.1 P2부터 System Manager를 사용하면 최대 300TiB의 FlexVol 볼륨 생성이 지원됩니다.</block>
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300TB</block>
+  <block id="970d5c9706f6ab7714134e23fcf688b5" category="section-title">9.12.1 P9(2024년 2월 5일)</block>
+  <block id="cc166601884aa0c57bb02902cbf3e2ad" category="paragraph">이제 모든 클라우드 제공업체가 Cloud Volumes ONTAP에서 9.12.1 P9 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link-macro">P9 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="d0b2ca8271dd8bcbce366784bf744158" category="paragraph"><block ref="a62fdbf622c208963a49bc988200ee74" category="inline-link-macro-rx"></block> (NetApp Support 사이트 로그인 필요).</block>
 </blocks>
