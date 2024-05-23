@@ -733,4 +733,8 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="d5e02577f66b97067be75a9ef81d7c09" category="paragraph">이제 모든 클라우드 제공업체가 Cloud Volumes ONTAP에서 9.12.1 P10 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
   <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link-macro">P10 패치에서 수정된 버그 목록을 봅니다</block>
   <block id="606401dc75e0992ae91880346f992a16" category="paragraph"><block ref="1f37417b1f9cda079de9cdbac9ee9dcc" category="inline-link-macro-rx"></block> (NetApp Support 사이트 로그인 필요).</block>
+  <block id="161607a72f91d648d825781bf0291ba5" category="section-title">9.12.1 P12(2024년 5월 22일)</block>
+  <block id="d88ef212113887bcfca294133a1db427" category="paragraph">이제 모든 클라우드 제공업체가 Cloud Volumes ONTAP에서 9.12.1 P12 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="8a1258bf37cf0340b92dd9f9ca39acfa" category="inline-link-macro">P12 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="7ef6e4c1566a900f1b5114723d75c692" category="paragraph"><block ref="288721c242a6d642b728b69617be73e7" category="inline-link-macro-rx"></block> (NetApp Support 사이트 로그인 필요).</block>
 </blocks>
